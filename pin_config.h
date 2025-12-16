@@ -1,7 +1,7 @@
 #pragma once
 
 #define WIFI_SSID                    "Your WiFI SSID"
-#define WIFI_PASSWORD               "Your WiFi password"
+#define WIFI_PASSWORD               "Your WiFi Password"
 
 
 /*ESP32S3*/
