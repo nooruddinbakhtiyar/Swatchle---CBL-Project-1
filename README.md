@@ -1,4 +1,4 @@
-# Swatchle – Arduino Source Code
+# Swatchle – Source Code
 
 This repository contains the Arduino firmware developed for the Swatchle prototype,
 running on the LILYGO T-Display S3 Touch (ESP32-S3).
@@ -16,7 +16,7 @@ running on the LILYGO T-Display S3 Touch (ESP32-S3).
 - BLE communication with phone
 
 ## Usage
-Open `Swatchle.ino` in Arduino IDE, install required libraries, and upload to the device.
+Open `Swatchle_WiFi.ino` in Arduino IDE, install required libraries, and upload to the device.
 
 ## Note
 This code is provided for academic and prototyping purposes.
