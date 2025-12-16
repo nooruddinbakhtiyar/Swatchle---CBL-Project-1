@@ -11,8 +11,8 @@
 
 - **PKCell Li-Po Battery (3.7V, JST-PH 2.0)**
   - Power source for portable use  
-  - Capacity: ~500 mAh
-  - https://www.tinytronics.nl/index.php?route=product/product&product_id=5875
+  - Capacity: ~350 mAh
+  - https://www.tinytronics.nl/index.php?route=product/product&product_id=5872
 
 ## Connectivity
 - **WiFi & Bluetooth**
