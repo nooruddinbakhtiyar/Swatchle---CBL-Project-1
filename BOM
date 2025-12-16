@@ -1,0 +1,26 @@
+# Bill of Materials (BOM) – Swatchle
+
+## Core Components
+- **LilyGO T-Display S3**
+  - ESP32-S3 microcontroller with integrated touchscreen and display  
+  - https://www.lilygo.cc/products/t-display-s3
+
+- **DF Robot TCS34725 RGB Color Sensor (Gravity / Adafruit compatible)**
+  - Used for real-world color sensing  
+  - https://www.adafruit.com/product/1334
+
+- **PKCell Li-Po Battery (3.7V, JST-PH 2.0)**
+  - Power source for portable use  
+  - Capacity: ~500–700 mAh
+
+## Connectivity
+- **WiFi & Bluetooth**
+  - Integrated via ESP32-S3 module on T-Display S3
+
+## Cables & Adapters
+- **JST-PH 2.0 → JST-PH 1.0 adapter cable**
+  - Required to connect battery to T-Display S3 (only supports JST-PH 1.0)
+
+## Miscellaneous
+- Hook-up wires (30 AWG)
+- Heat shrink tubing (2–3 mm)
