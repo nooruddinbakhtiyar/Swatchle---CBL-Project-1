@@ -1,5 +1,5 @@
 // Swatchle – T-Display S3 Touch
-// Authors: <N.B.Solangi, E.Sairoglu, A.J.Westcott, K.Tandean, T.Destura>
+// Authors: <N.B.Solangi>
 // Course: <CBL Project 1>
 // Year: 2025
 
