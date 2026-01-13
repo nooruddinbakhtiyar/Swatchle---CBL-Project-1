@@ -1,9 +1,8 @@
 // Swatchle – T-Display S3 Touch
-// Authors: <N.>
+// Authors: <N.B.Solangi>
 // Year: 2025
 
 #define TOUCH_MODULES_CST_SELF
-
 #include <TFT_eSPI.h>
 #include <Wire.h>
 #include <math.h>
