@@ -1,5 +1,5 @@
 // Swatchle – T-Display S3 Touch
-// Authors: <N.B.Solangi>
+// Authors: <N.>
 // Year: 2025
 
 #define TOUCH_MODULES_CST_SELF
